@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Shanae! 👋
+
+![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)
 
 <!--
 **ShanaeL29/ShanaeL29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
