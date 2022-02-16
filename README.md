@@ -4,9 +4,11 @@
 
 I have an intense desire for learning new things. I began learning basic web development on my own about a year ago. From my first time printing "Hello World" to the screen I was obsessed. I decided to join Bloom Institute of Technology (FKA Lambda School) for the accountability aspect and am currently enrolled in the Full Stack Web Development course. The result of this decision has already changed my life drastically. I am a heavy consumer of the internet and being able to contribute on the creative end is a game-changer. I have finally discovered my passion in a field that I consistently want to learn more about! The love I feel for struggling through puzzling algorithms using JavaScript and building applications through React is thrilling!
 
-- 🔭 I’m currently working on building an **Expense Tracker using React**
+## Currently
 
-- 🌱 I’m currently learning **Applied Computer Science (JavaScript Algorithms and Python)**
+- 🔭 I’m working on building an **Expense Tracker using React**
+
+- 🌱 I’m learning **Applied Computer Science (JavaScript Algorithms and Python)**
 
 - 👯 I’m looking to collaborate on **any new projects with my peers as I am always looking to advance my skillset**
 
