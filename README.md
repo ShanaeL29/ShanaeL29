@@ -21,6 +21,8 @@ I have an intense desire for learning new things. I began learning basic web dev
 - ⚡ Fun fact **I love scary new adventures**
 
 
+## Connect with me:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shanae-leslie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanae leslie" height="30" width="40" /></a>
