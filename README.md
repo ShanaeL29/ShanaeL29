@@ -3,8 +3,8 @@
 
 <h2 align="center">A passionate full stack developer student from Atlanta, Georgia</h2>
 
-/header.png
-
+ <img align="left" alt="Woman Coding" width="400" src="![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)">
+ 
 ![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)
 
 <h3 align="left">Thanks for stopping by!</h3>
