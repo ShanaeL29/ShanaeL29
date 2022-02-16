@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact **I love scary new adventures**
 
-![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
