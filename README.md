@@ -35,4 +35,6 @@ I have an intense desire for learning new things. I began learning basic web dev
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanael29&theme=great-gatsby" alt="shanael29" /></p>
 
+<h2 align="left">Thanks so much for stopping by!</h3>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31utwgrrxodxm6kb6mcthn4rdj34&count=1)
