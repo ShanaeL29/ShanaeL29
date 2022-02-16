@@ -35,3 +35,4 @@
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31utwgrrxodxm6kb6mcthn4rdj34)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31utwgrrxodxm6kb6mcthn4rdj34&count={2})
