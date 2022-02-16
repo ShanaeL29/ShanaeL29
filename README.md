@@ -2,12 +2,12 @@
 
 ![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)
 
-<!--
-**ShanaeL29/ShanaeL29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![giphy](https://user-images.githubusercontent.com/86532939/154270134-c511496d-0ee2-4cd1-bcab-d2855dd959d4.gif)
 
 ![giphy](https://user-images.githubusercontent.com/86532939/154270170-cca6d20d-3ee2-4f01-9f62-5a72431a8309.gif)
+
+<!--
+**ShanaeL29/ShanaeL29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
