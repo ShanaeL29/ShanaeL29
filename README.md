@@ -12,7 +12,7 @@ I have an intense desire for learning new things. I began learning basic web dev
 
 - 👯 I’m looking to collaborate on **any new projects with my peers as I am always looking to advance my skillset**
 
-- 💬 Ask me about **HTML, CSS, React, Redux, JavaScript, Node,**
+- 💬 Ask me about **managing full time work, school, and single motherhood!**
 
 - 📫 How to reach me **shanaeleslie27@gmail.com**
 
