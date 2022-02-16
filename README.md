@@ -1,9 +1,9 @@
-<h1 align="center">I'm Shanae Leslie</h1>
+<h1 align="center">Hello, I'm Shanae Leslie</h1>
 
 <h2 align="center">A passionate full stack developer student from Atlanta, Georgia</h2>
 
 
-<h3 align="left">Hello and thanks for stopping by!</h3>
+<h3 align="left">Thanks for stopping by!</h3>
 
 - 🔭 I’m currently working on building an **Expense Tracker using React**
 
