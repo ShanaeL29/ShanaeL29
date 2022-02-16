@@ -4,8 +4,6 @@
 
 ![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)
 
-![giphy](https://user-images.githubusercontent.com/86532939/154270134-c511496d-0ee2-4cd1-bcab-d2855dd959d4.gif)
-
 <h3 align="left">Hello and thanks for stopping by!</h3>
 
 - 🔭 I’m currently working on building an **Expense Tracker using React**
