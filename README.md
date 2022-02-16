@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm Shanae Leslie</h1>
+<h1 align="center" style="font-family:'Lucida Console'">Hello, I'm Shanae Leslie</h1>
 
 <h2 align="center">A passionate full stack developer student from Atlanta, Georgia</h2>
 
