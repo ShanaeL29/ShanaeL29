@@ -10,7 +10,7 @@
 **ShanaeL29/ShanaeL29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm Shanae Leslie</h1>
+<h1 align="center">Hello there, I'm Shanae Leslie</h1>
 <h3 align="center">A passionate full stack developer student from Atlanta, Georgia</h3>
 
 - 🔭 I’m currently working on building an **Expense Tracker using React**
