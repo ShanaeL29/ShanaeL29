@@ -18,7 +18,7 @@ I have an intense desire for learning new things. I began learning basic web dev
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing](https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing)
 
-- ⚡ Fun fact **I love scary new adventures**
+- ⚡ Fun fact **I love conquering scary new adventures**
 
 
 ## Connect with me:
