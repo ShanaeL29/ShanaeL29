@@ -31,4 +31,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanael29&hide=stars&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanael29&" alt="shanael29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanael29&theme=great-gatsby" alt="shanael29" /></p>
