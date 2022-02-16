@@ -1,15 +1,10 @@
-### Shanae Leslie
+<h1 align="center">Hello there, I'm Shanae Leslie</h1>
+<h3 align="center">A passionate full stack developer student from Atlanta, Georgia</h3>
+
 
 ![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)
 
 ![giphy](https://user-images.githubusercontent.com/86532939/154270134-c511496d-0ee2-4cd1-bcab-d2855dd959d4.gif)
-
-<!--
-**ShanaeL29/ShanaeL29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<h1 align="center">Hello there, I'm Shanae Leslie</h1>
-<h3 align="center">A passionate full stack developer student from Atlanta, Georgia</h3>
 
 - 🔭 I’m currently working on building an **Expense Tracker using React**
 
