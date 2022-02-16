@@ -33,6 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanael29&theme=great-gatsby" alt="shanael29" /></p>
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31utwgrrxodxm6kb6mcthn4rdj34&count=2)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31utwgrrxodxm6kb6mcthn4rdj34)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31utwgrrxodxm6kb6mcthn4rdj34&count=1)
