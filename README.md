@@ -1,7 +1,5 @@
 ![banner (1)](https://user-images.githubusercontent.com/86532939/154302438-7469a90f-4ce8-4360-a556-2ea989fca7c6.png)
 
-![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)
-
 <h3 align="left">Thanks for stopping by!</h3>
 
 - 🔭 I’m currently working on building an **Expense Tracker using React**
@@ -17,6 +15,9 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing](https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing)
 
 - ⚡ Fun fact **I love scary new adventures**
+
+![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
