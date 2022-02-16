@@ -1,11 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
-
 ![banner (1)](https://user-images.githubusercontent.com/86532939/154302438-7469a90f-4ce8-4360-a556-2ea989fca7c6.png)
-
-
-<h1 align="center">Hello, I'm Shanae Leslie</h1>
-
-<h2 align="center">A passionate full stack developer student from Atlanta, Georgia</h2>
 
 ![giphy](https://user-images.githubusercontent.com/86532939/153952608-55cf4d27-cd90-427b-9577-8ee04bd73da9.gif)
 
