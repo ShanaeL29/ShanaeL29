@@ -1,6 +1,6 @@
 ![banner (1)](https://user-images.githubusercontent.com/86532939/154302438-7469a90f-4ce8-4360-a556-2ea989fca7c6.png)
 
-## A little about me
+## Tech Journey
 
 I have an intense desire for learning new things. I began learning basic web development on my own about a year ago. From my first time printing "Hello World" to the screen I was obsessed. I decided to join Bloom Institute of Technology (FKA Lambda School) for the accountability aspect and am currently enrolled in the Full Stack Web Development course. The result of this decision has already changed my life drastically. I am a heavy consumer of the internet and being able to contribute on the creative end is a game-changer. I have finally discovered my passion in a field that I consistently want to learn more about! The love I feel for struggling through puzzling algorithms using JavaScript and building applications through React is thrilling!
 
