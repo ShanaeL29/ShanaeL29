@@ -5,6 +5,8 @@
 <!--
 **ShanaeL29/ShanaeL29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://media.giphy.com/media/3oriNQ9YMfI15u8dr2/giphy.gif
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
