@@ -6,19 +6,19 @@ I have an intense desire for learning new things. I began learning basic web dev
 
 ## Currently
 
-- 🔭 I’m working on building an **Expense Tracker using React**
+ 🔭 I’m working on building an **Expense Tracker using React**
 
-- 🌱 I’m learning **Applied Computer Science (JavaScript Algorithms and Python)**
+ 🌱 I’m learning **Applied Computer Science (JavaScript Algorithms and Python)**
 
-- 👯 I’m looking to collaborate on **any new projects with my peers as I am always looking to advance my skillset**
+ 👯 I’m looking to collaborate on **any new projects with my peers as I am always looking to advance my skillset**
 
-- 💬 Ask me about **managing full time work, school, and single motherhood!**
+ 💬 Ask me about **managing full time work, school, and single motherhood!**
 
-- 📫 How to reach me **shanaeleslie27@gmail.com**
+ 📫 How to reach me **shanaeleslie27@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing](https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing)
+ 📄 Know about my experiences [https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing](https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing)
 
-- ⚡ Fun fact **I love conquering scary new adventures**
+ ⚡ Fun fact **I love conquering scary new adventures**
 
 
 ## Connect with me:
