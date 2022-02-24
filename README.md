@@ -44,4 +44,4 @@ I have an intense desire for learning new things. I began learning basic web dev
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31utwgrrxodxm6kb6mcthn4rdj34&count=1)
 
-<h3 align="left">Thanks so much for stopping by and I hope we talk soon!</h3>
+<h3 align="left">Thanks so much for stopping by! I hope to hear from you!</h3>
