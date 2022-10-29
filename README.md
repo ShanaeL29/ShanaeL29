@@ -6,9 +6,9 @@ I have an intense desire for learning new things. I began learning basic web dev
 
 ## Currently
 
- 🔭 I’m working on building an **Expense Tracker using React**
+ 🔭 I’m working on improving skills in **React**
 
- 🌱 I’m learning **Applied Computer Science (JavaScript Algorithms and Python)**
+ 🌱 I’m learning **Applied Computer Science (Data Structures and Algorithms)**
 
  👯 I’m looking to collaborate on **any new projects with my peers as I am always looking to advance my skillset**
 
