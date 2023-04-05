@@ -1,4 +1,4 @@
-![banner (1)](https://user-images.githubusercontent.com/86532939/154302438-7469a90f-4ce8-4360-a556-2ea989fca7c6.png)
+![](https://github.com/ShanaeL29/ShanaeL29/blob/main/Hi%2C_I'm_ShanaeA_passionate_full_stack_web_developer.png)
 
 ## Tech Journey
 
