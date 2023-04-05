@@ -16,7 +16,7 @@ I have an intense desire for learning new things. I began learning basic web dev
 
  📫 How to reach me **shanaeleslie27@gmail.com**
 
- 📄 Know about my experiences [https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing](https://docs.google.com/document/d/1dYrba2Tago5uTl8J_ctOVHeAXB0l6WGfyYScrfMBg20/edit?usp=sharing)
+ 📄 Know about my experiences https://docs.google.com/document/d/1Rz4mF7dQI8V4kmz1v36h31DetU6xfmZpegy1VCCp9mM/edit?usp=sharing
 
  ⚡ Fun fact **I love conquering scary new adventures**
 
