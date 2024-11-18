@@ -6,7 +6,7 @@ I have an intense desire for learning new things. I began learning basic web dev
 
 ## Currently
 
- 🔭 I’m working on improving skills in **React**
+ 🔭 I’m working on improving skills in **React, Java, SQL, Test Automation**
 
  🌱 I’m learning **Applied Computer Science (Data Structures and Algorithms)**
 
