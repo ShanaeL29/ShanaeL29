@@ -2,7 +2,7 @@
 
 ## Tech Journey
 
-I have an intense desire for learning new things. I began learning basic web development on my own about a year ago. From my first time printing "Hello World" to the screen I was obsessed. I decided to join Bloom Institute of Technology (FKA Lambda School) for the accountability aspect and am currently enrolled in the Full Stack Web Development course. The result of this decision has already changed my life drastically. I am a heavy consumer of the internet and being able to contribute on the creative end is a game-changer. I have finally discovered my passion in a field that I consistently want to learn more about! The love I feel for struggling through puzzling algorithms using JavaScript and building applications through React is thrilling!
+I have an intense desire for learning new things. I began learning basic web development on my own in 2021. From my first time printing "Hello World" to the screen I was obsessed. I decided to join Bloom Institute of Technology (FKA Lambda School) for the accountability aspect and graduated from the Full Stack Web Development program. The result of this decision has already changed my life drastically. I am a heavy consumer of the internet and being able to contribute on the creative end is a game-changer. I have finally discovered my passion in a field that I consistently want to learn more about! The love I feel for struggling through puzzling algorithms and building applications is thrilling!
 
 ## Currently
 
